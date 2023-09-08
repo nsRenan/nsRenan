@@ -1,13 +1,12 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3C91E6&height=200&section=header&text=Renan%20Nobre&desc=Full-Stack%20Dev&fontSize=50&fontColor=FFF&fontAlignY=32&descAlignY=50" />
 
-<div align="center"
+<div align="center">
+<h2>Sobre Mim</h2>
 
-## Sobre Mim
 
-👋 Olá, eu sou **Renan**, natural do interior da Bahia. <br/>
- 🎓 Iniciei minha jornada na programação em 2021, quando entrei na faculdade de Ciências da Computação. <br/>
- 💼 Desde 2023, atuo como Freelancer na área de desenvolvimento de software. <br/>
- 🚀 No mesmo ano, busquei aprimorar minhas habilidades em back-end através do curso da Cubos Academy.
+  👋 Olá , eu sou **Renan**, natural do interior da Bahia.  Iniciei minha jornada na programação em 2021, quando entrei na faculdade de Ciências da Computação. <br/>
+  💼 Desde 2023, atuo como Freelancer na área de desenvolvimento de software.  No mesmo ano, busquei aprimorar minhas habilidades em back-end através do curso da Cubos Academy.
+ 
 
 <div/>
 
