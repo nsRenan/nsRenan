@@ -1,16 +1,39 @@
-### Hi there 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3C91E6&height=200&section=header&text=Renan%20Nobre&desc=Full-Stack%20Dev&fontSize=50&fontColor=FFF&fontAlignY=32&descAlignY=50" />
 
-<!--
-**nsRenan/nsRenan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center"
 
-Here are some ideas to get you started:
+## Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👋 Olá, eu sou **Renan**, natural do interior da Bahia. <br/>
+ 🎓 Iniciei minha jornada na programação em 2021, quando entrei na faculdade de Ciências da Computação. <br/>
+ 💼 Desde 2023, atuo como Freelancer na área de desenvolvimento de software. <br/>
+ 🚀 No mesmo ano, busquei aprimorar minhas habilidades em back-end através do curso da Cubos Academy.
+
+<div/>
+
+<div align="center">
+<h2>Minhas Tecnlogias</h2>
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+<br/>
+![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+<div/>
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=nsRenan&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117)
+
+<div align="center">
+  <h2>Contato</h2>
+  
+  <a href="mailto:renannobresan@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
+  <a href="https://www.linkedin.com/in/dev-renan-nobre/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
+
+
