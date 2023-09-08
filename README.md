@@ -11,7 +11,7 @@
 <div/>
 
 <div align="center">
-<h2>Minhas Tecnlogias</h2>
+<h2>Hard Skills</h2>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -26,7 +26,7 @@
 
 <div/>
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=nsRenan&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=nsRenan&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&theme=tokyonight&custom_title=Principais%20%Linguagens)
 
 <div align="center">
   <h2>Contato</h2>
