@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3C91E6&height=200&section=header&text=Renan%20Nobre&desc=Full-Stack%20Dev&fontSize=50&fontColor=FFF&fontAlignY=32&descAlignY=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=b3480e&height=200&section=header&text=Renan%20Nobre&desc=Full-Stack%20Dev&fontSize=50&fontColor=FFF&fontAlignY=32&descAlignY=50" />
 
 <div align="center">
 <h2>Sobre Mim</h2>
@@ -35,4 +35,4 @@
   <a href="https://www.linkedin.com/in/dev-renan-nobre/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=b3480e&height=100&section=footer" />
