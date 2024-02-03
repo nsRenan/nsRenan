@@ -14,7 +14,8 @@
 <div align="center" >
 <h2>Hard Skills</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,nodejs,express,mysql,postgres,postman,azure,aws,react,nextjs,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,nodejs,express,react,nextjs)](https://skillicons.dev) <br/>
+[![My Skills](https://skillicons.dev/icons?i=postman,azure,aws,mysql,postgres,figma)](https://skillicons.dev)
 
 <div/>
 
