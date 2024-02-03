@@ -5,26 +5,16 @@
 
 
   👋 Olá , eu sou **Renan**, natural do interior da Bahia.  Iniciei minha jornada na programação em 2021, quando entrei na faculdade de Ciências da Computação. <br/>
-  💼 Desde 2023, atuo como Freelancer na área de desenvolvimento de software.  No mesmo ano, busquei aprimorar minhas habilidades em back-end através do curso da Cubos Academy.
+  💼 Desde 2023, atuo como Freelancer na área de desenvolvimento de software.  No mesmo ano, busquei aprimorar minhas habilidades em back-end através do curso da Cubos Academy. <br/>
+  📰 Em janeiro de 2024, concluí meu primeiro portfólio.  <a href="https://wwww.nsrenan.com" target="_blank">***Clique Aqui***</a>
  
 
 <div/>
 
-<div align="center">
+<div align="center" >
 <h2>Hard Skills</h2>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-<br/>
-![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,nodejs,express,mysql,postgres,postman,azure,aws,react,nextjs,figma)](https://skillicons.dev)
 
 <div/>
 
