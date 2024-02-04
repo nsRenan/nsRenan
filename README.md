@@ -6,7 +6,7 @@
 
   👋 Olá , eu sou **Renan**, natural do interior da Bahia.  Iniciei minha jornada na programação em 2021, quando entrei na faculdade de Ciências da Computação. <br/>
   💼 Desde 2023, atuo como Freelancer na área de desenvolvimento de software.  No mesmo ano, busquei aprimorar minhas habilidades em back-end através do curso da Cubos Academy. <br/>
-  📰 Em janeiro de 2024, concluí meu primeiro portfólio.  <a href="https://wwww.nsrenan.com" target="_blank">***Clique Aqui***</a>
+  📰 Em janeiro de 2024, concluí meu primeiro portfólio.  <a href="https://www.nsrenan.com" target="_blank">***Clique Aqui***</a>
  
 
 <div/>
