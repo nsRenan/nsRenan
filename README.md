@@ -24,8 +24,8 @@
 <div align="center">
   <h2>Contato</h2>
   
-  <a href="mailto:renannobresan@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
-  <a href="https://www.linkedin.com/in/dev-renan-nobre/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:contact.renannobre@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
+  <a href="https://www.linkedin.com/in/renan-nobre/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=b3480e&height=100&section=footer" />
